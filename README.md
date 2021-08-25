@@ -1,5 +1,5 @@
 # AlgLinComp-UFRJ-2021
-Repositório com as implementações dos métodos aprendidos em aula. <br\>
+Repositório com as implementações dos métodos aprendidos em aula. <br />
 **O programa necessita do Java instalado. Caso não possua o java no seu computador ou tenha problemas de compatibilidade, instale o JDK em https://www.oracle.com/java/technologies/javase-jdk11-downloads.html**
 
 O programa gerado é capaz de resolver sistemas lineares quadrados da forma Ax=b utilizando os quatro métodos aprendidos em aula: 
