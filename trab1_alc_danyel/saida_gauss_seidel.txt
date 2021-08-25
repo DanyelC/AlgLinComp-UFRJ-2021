@@ -1,0 +1,24 @@
+Matriz A lida:
+3,00 -1,00 -1,00 
+-1,00 3,00 -1,00 
+-1,00 -1,00 3,00 
+
+Vetor B lido: 1,00 2,00 1,00 
+
+Método iterativo de Gauss-Seidel
+
+Vetor Reposta: 1,25 1,50 1,25 
+
+Erros por cada iteração: 
+Erro 1: 1,0000000000 
+Erro 2: 0,4195804196 
+Erro 3: 0,1716022970 
+Erro 4: 0,0727570513 
+Erro 5: 0,0321347124 
+Erro 6: 0,0143697266 
+Erro 7: 0,0064669059 
+Erro 8: 0,0029181693 
+Erro 9: 0,0013184463 
+Erro 10: 0,0005960116 
+
+
