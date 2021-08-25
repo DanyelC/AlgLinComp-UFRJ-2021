@@ -1,0 +1,12 @@
+Matriz A lida:
+-1,00 -0,20 0,00 
+-0,20 -1,00 10,00 
+0,00 10,00 -1,00 
+
+Método de Jacobi
+
+Autovalores
+NaN
+NaN
+NaN
+
