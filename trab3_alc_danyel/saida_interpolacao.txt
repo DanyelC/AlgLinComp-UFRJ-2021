@@ -1,0 +1,6 @@
+Pontos lidos (x,y):
+(0,10, 1,22)
+(0,60, 3,32)
+(0,80, 4,95)
+Método de interpolação
+Valor de y para 0,200000: 1,414114
