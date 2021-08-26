@@ -541,17 +541,5 @@ public class MatFunc {
 	    	return resp;
 	    }
 
-	    
 
-
-
-	    
-
-
-	        /*
-	        https://stackoverflow.com/questions/36274611/java-matrix-array-txt-file
-	        https://stackoverflow.com/questions/14531867/how-to-write-for-x-in-list-in-java
-	        https://stackoverflow.com/questions/17509781/how-to-read-last-line-in-a-text-file-using-java/17509834
-	        https://www.blogcyberini.com/2018/06/algoritmo-resolucao-sistemas-lineares-eliminacao-gauss.html
-			*/
 	}
