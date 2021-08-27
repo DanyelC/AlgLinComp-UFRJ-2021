@@ -1,0 +1,19 @@
+O programa gerado é capaz de calcular aproximações para os pontos desejados utilizando os dois métodos aprendidos em aula:
+- Interpolção de Lagrange
+- Regressão Linear
+
+Os inputs gerais do programa são:
+- O número de pontos a serem lidos
+- O método de solução desejado
+- O valor x para o cálculo do valor y desse ponto
+- O caminho para o arquivo txt contendo os pontos a serem usados como base para os cálculos
+
+Para que o programa funcione, basta preencher as entradas corretamente e pressionar o botão "pronto" na guia "dados de saída". 
+
+OBS:
+- O programa espera um "." para ler casas decimais.  Por exemplo, escreva "0.5" e não "0,5" (sem aspas).
+- É recomendado preencher o caminho completo para os arquivos  de entrada e saida. Exemplo: "C:\Users\Myuser\Desktop\teste_entrada.txt"
+- Exemplo de preenchimento de arquivo txt para entrada representando a matriz A:
+
+1 2 3 4
+1 4 9 16
