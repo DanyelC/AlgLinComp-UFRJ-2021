@@ -1,0 +1,4 @@
+Parâmetros lidos (o1, o2) : (0,00, 11,67)
+Tolerância estabelecida: 0,999000
+Método de Broyden.
+Valor encontrado para as constantes c2, c3 e c4: 1,000, 0,000, 8,667

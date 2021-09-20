@@ -1,0 +1,4 @@
+Parâmetros lidos (o1, o2) : (0,00, 3,00)
+Tolerância estabelecida: 0,500000
+Método de Newton.
+Valor encontrado para as constantes c2, c3 e c4: 1,000, 0,000, 0,000
