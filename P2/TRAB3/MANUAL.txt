@@ -1,0 +1,16 @@
+O programa gerado é capaz de resolver a edo de segundo grau apresentada em aula utilizando o método:
+- Runge-Kutta-Nystron
+
+
+Os inputs gerais do programa são:
+- Os parametros m,c, k, a1, a2, a3, w1, w2, w3;
+- O passo de resolução;
+- O tempo de integração;
+-O caminho para o arquivo txt onde os outputs do programa serão escritos;
+
+Para que o programa funcione, basta preencher as entradas corretamente e pressionar o botão "pronto" na guia "dados de saída".
+
+OBS:
+- O programa espera um "." para ler casas decimais.  Por exemplo, escreva "0.5" e não "0,5" (sem aspas).
+- Não separe as constantes com espaço, apenas vígula, como : "teta1,teta2"
+- É recomendado preencher o caminho completo para os arquivos de entrada e saida. Exemplo: "C:\Users\Myuser\Desktop\teste_entrada.txt"

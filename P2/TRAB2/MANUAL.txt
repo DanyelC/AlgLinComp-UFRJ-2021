@@ -1,0 +1,21 @@
+O programa gerado é capaz de resolver diversos calculos para a equação não linear apresentada em aula:
+- Raiz num intervalo [a,b]:
+	- Método da Bisseção
+	- Método de Newton
+- Calcular Integral definida num intervalo [a,b]:
+	- Quadratura de Gauss 
+	- Quadratura polinomial
+- Derivada num ponto x=a:
+	- Método de diferenças finitas passo a frente
+	- Método de diferenças finitas passo atrás
+	- Método de diferença central
+	- Extrapolação de Richard (com p=1)
+
+Os inputs gerais do programa variam com o cálculo escolhido. Entretanto, não esqueça de preencher o caminho para o arquivo txt onde os outputs do programa serão escritos.
+
+Para que o programa funcione, basta preencher as entradas corretamente e pressionar o botão "pronto" na guia "dados de saída".
+
+OBS:
+- O programa espera um "." para ler casas decimais.  Por exemplo, escreva "0.5" e não "0,5" (sem aspas).
+- Não separe as constantes com espaço, apenas vígula, como : "teta1,teta2"
+- É recomendado preencher o caminho completo para os arquivos de entrada e saida. Exemplo: "C:\Users\Myuser\Desktop\teste_entrada.txt"
